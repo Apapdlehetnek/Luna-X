@@ -1,4 +1,4 @@
-![Luna X Logo](images/Luna.jpg)
+![Luna X Logo](Luna.jpg)
 
 # Luna X
 
