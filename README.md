@@ -1,7 +1,9 @@
+![Luna X Logo](images/Luna.png)
+
 # Luna X
 
 **Version:** 3.0  
-**Developed by:** Adam :3 
+**Developed by:** [Your Name or Nickname]  
 
 Luna X is an advanced tool designed to assist with various network-related tasks and automation. It provides simple yet powerful commands for users.
 
@@ -34,3 +36,4 @@ Luna X is an advanced tool designed to assist with various network-related tasks
 ## Note
 
 This tool is for **educational purposes only**. Please follow ethical hacking rules and use it exclusively on networks you own or have permission to test.
+
