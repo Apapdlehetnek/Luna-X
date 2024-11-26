@@ -1,9 +1,9 @@
-![Luna X Logo](image(1) (1).jpg)
+![Luna X Logo](Logo.jpg)
 
 # Luna X
 
 **Version:** 3.0  
-**Developed by:** [Your Name or Nickname]  
+**Developed by:** Adam :3 
 
 Luna X is an advanced tool designed to assist with various network-related tasks and automation. It provides simple yet powerful commands for users.
 
